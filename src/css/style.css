@@ -12,6 +12,9 @@
   background-color: #b5ea57;
   margin: 0 10px 40px;
 }
+.abox1 {
+  color: currentColor;
+}
 /* .box:nth-child(2n + 1) {
   margin-left: 0;
 }
@@ -45,15 +48,15 @@
   line-height: 1.3em;
 }
 .container2 {
-    max-width: 1170px;
-    margin: 0 auto;
+  max-width: 1170px;
+  margin: 0 auto;
 }
-.box_wrapper2{
+.box_wrapper2 {
   margin-right: -44px;
 }
 .box2 {
   float: left;
-    background-color: #00ff49;
-    width: 30%;
-    margin: 0px 39px 22px 0px;
+  background-color: #00ff49;
+  width: 30%;
+  margin: 0px 39px 22px 0px;
 }
