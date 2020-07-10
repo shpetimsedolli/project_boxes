@@ -3,6 +3,10 @@
   width: 100%;
   margin: 0 auto;
 }
+.mainWrap {
+  display: block;
+  margin-top: 10px;
+}
 .boxes_wrapper {
   margin: 0 -10px;
 }
