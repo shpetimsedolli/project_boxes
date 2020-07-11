@@ -61,6 +61,6 @@
 .box2 {
   float: left;
   background-color: #00ff49;
-  width: 30%;
+  width: calc(33.3333% - 39px);
   margin: 0px 39px 22px 0px;
 }
